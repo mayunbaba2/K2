@@ -73,4 +73,5 @@ V1.5_2补丁版本发布
 
 ![index](http://www.right.com.cn/forum/data/attachment/forum/201703/18/181107c0839so3w9oepa8w.jpg)
 ![index](http://www.right.com.cn/forum/data/attachment/forum/201703/18/191106c7ddgzy8zg8d8zg7.jpg)
-# breed进入方式：电脑连接LAN口自动获取 IP 地址，按住K2复位键再通电，持续按住几秒，然后电脑访问http://192.168.1.1 #
+
+breed进入方式：电脑连接LAN口自动获取 IP 地址，按住K2复位键再通电，持续按住几秒，然后电脑访问http://192.168.1.1 
