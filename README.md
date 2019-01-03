@@ -71,6 +71,9 @@ V1.5_2补丁版本发布
 2、增加酸酸乳协议参数选项、自定义增加源IP过滤，强制目的IP等选项
 3、更新到最新版本S-S R，支持auth_chain_a/b/c/d/e/f
 
+【2018-10-09】V1.9版本发布
+1、修复bug，更新广告屏蔽服务器
+
 ![index](http://www.right.com.cn/forum/data/attachment/forum/201703/18/181107c0839so3w9oepa8w.jpg)
 ![index](http://www.right.com.cn/forum/data/attachment/forum/201703/18/191106c7ddgzy8zg8d8zg7.jpg)
 
